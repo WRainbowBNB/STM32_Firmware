@@ -1,0 +1,11 @@
+# 过滤编译生成的文件
+*.bin
+*.hex
+*.elf
+*.axf
+*.lst
+*.map
+*.dep
+Objects/
+Listings/
+DebugConfig/
